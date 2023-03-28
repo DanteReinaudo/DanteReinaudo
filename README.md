@@ -18,8 +18,10 @@ My name is Dante Reinaudo and I'm a software engineer student at the University 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/es" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Smalltalk" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Smalltalk_Balloon.svg" alt="java" width="40" height="40"/> </a>  
+  <a href="https://en.wikipedia.org/wiki/Smalltalk" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Smalltalk_Balloon.svg" alt="java" width="40" height="40"/> </a>
+  
 </p> 
 
 <p align="center">
