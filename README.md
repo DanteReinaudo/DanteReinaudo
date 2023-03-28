@@ -37,19 +37,12 @@ My name is Dante Reinaudo and I'm a software engineer student at the University 
 <h1 align="center"> GitHub Stats :chart_with_upwards_trend: </h1>
 
 <p align="center"> 
-  
   <a href="https://github.com/DanteReinaudo/DanteReinaudo">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanteReinaudo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec"   />
-  </a>
-   <a href="https://github.com/DanteReinaudo/DanteReinaudo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteReinaudo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"   />
-  </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanteReinaudo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec"   /></a>
   <a href="https://github.com/DanteReinaudo/DanteReinaudo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteReinaudo&hide=contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dante's GitHub Stats" />
-  </a>
-
- 
-  
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteReinaudo&title_color=ffffff&text_color=c9cacc&hide=assembly,html,css&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
+  <a href="https://github.com/DanteReinaudo/DanteReinaudo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteReinaudo&hide=contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dante's GitHub Stats" /></a> 
 </p>
   
 
