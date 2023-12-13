@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hello There, Fellow Devs :wave: </h1>
 <p align="center"> 
-My name is Dante Reinaudo and I'm a software engineer student at the University of Buenos Aires.
+My name is Dante Reinaudo and I'm a software engineer student about to graduate at the University of Buenos Aires with a solid foundation in various programming languages. Enthusiastic about Data Science and Artificial Intelligence. 
 </p>
 
 
