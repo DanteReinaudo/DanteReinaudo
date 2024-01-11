@@ -1,19 +1,20 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DanteReinaudo&label=Profile%20views&color=3ac9fd&style=for-the-badge&logo=star" alt="DanteReinaudo" style="padding-right:20px;" />
+</p>
+<br />
 <div align="center">
   <img src="/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
 </div>
 
+<!--Profile Count Badge-->
 <!--Start Intro--> 
 <h2 align="center"> Hello There, Fellow Devs :wave: </h2>
 <p align="justify">My name is Dante Reinaudo and I'm a computer engineer student about to graduate at the University of Buenos Aires with a solid foundation in various programming languages. Enthusiastic about Data Science and Artificial Intelligence.</p> 
 
 - 💻 Visit my [Portfolio](https://dantereinaudo.github.io/) for more details about me.
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DanteReinaudo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="DanteReinaudo" style="padding-right:20px;" />
-</p>
+<br />
 
 
 <h2 align="center"> :wrench: Languages and Tools :wrench:</h2>
