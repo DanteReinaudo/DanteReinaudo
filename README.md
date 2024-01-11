@@ -12,7 +12,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DanteReinaudo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=DanteReinaudo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="DanteReinaudo" style="padding-right:20px;" />
 </p>
 
 
@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Github Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/DanteReinaudo">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteReinaudo&hide=contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dante's GitHub Stats" />
@@ -37,7 +37,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/DanteReinaudo">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanteReinaudo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec"   />
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/DanteReinaudo">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=DanteReinaudo&limit=3&theme=dark&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
          <a href="https://github.com/DanteReinaudo">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteReinaudo&title_color=ffffff&text_color=c9cacc&hide=assembly,html,css&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
@@ -76,7 +76,8 @@
 <h2 align="center">:e-mail:  Where to find me :e-mail: </h2>
 <p align="center"> 
   <a href="https://github.com/DanteReinaudo" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a> 
-  <a href="https://www.linkedin.com/in/dante-reinaudo-a54159270/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dante-reinaudo" height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/dante-reinaudo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dante-reinaudo" height="30" width="40" /></a>  
   <a href="https://www.instagram.com/dante.tabareski/?hl=es-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dante-reinaudo" height="30" width="40" /></a>  
 </p>
+
 
