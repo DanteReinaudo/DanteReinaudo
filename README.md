@@ -7,7 +7,6 @@
   <br />
 </div>
 
-<!--Profile Count Badge-->
 <!--Start Intro--> 
 <h2 align="center"> Hello There, Fellow Devs :wave: </h2>
 <p align="justify">My name is Dante Reinaudo and I'm a computer engineer student about to graduate at the University of Buenos Aires with a solid foundation in various programming languages. Enthusiastic about Data Science and Artificial Intelligence.</p> 
@@ -59,7 +58,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
          <a href="https://github.com/DanteReinaudo">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteReinaudo&title_color=ffffff&text_color=c9cacc&hide=assembly,html,css&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteReinaudo&title_color=ffffff&text_color=c9cacc&hide=assembly,html,css,jupyter%20notebook&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
         </a>
       </p>
     </td>
